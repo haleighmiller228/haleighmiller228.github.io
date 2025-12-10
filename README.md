@@ -23,6 +23,7 @@
 
 ## **Enhanced Artifact**
 ### _Inventory Tracker Application (iOS)_
+[Inventory Tracker Haleigh Miller Enhanced.zip](https://github.com/haleighmiller228/haleighmiller228.github.io/blob/d89b20bcf262dcc725fdf124982f41e60b26e804/Inventory%20Tracker%20Haleigh%20Miller%20Enhanced.zip)
 
 ## **Software Design and Engineering Enhancement**
 ### _Narrative_
