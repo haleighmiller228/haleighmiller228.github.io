@@ -15,7 +15,7 @@
 
 ## **Code Review**
 ### _Please click the link below to be redirected to YouTube_
-[Code Review] (https://youtu.be/c97dNf2x43I)
+[Code Review](https://youtu.be/c97dNf2x43I)
 
 ## **Original Artifact**
 ### _Inventory Tracker Application (Android)_
