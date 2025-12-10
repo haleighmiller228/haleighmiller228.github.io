@@ -1,1 +1,2 @@
-# haleighmiller228.github.io
+# Computer Science Capstone ePortfolio
+## Haleigh Miller
