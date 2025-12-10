@@ -14,6 +14,8 @@
   Finally, to demonstrate my skills in Databases, I chose to expand on the information that the application already stored about the items and the users of the application. I added several fields to the item entity to provide more detailed information about each item; in addition to the item’s name and inventory level, the application can now show a photo and description of the item, as well as the item’s location in the warehouse and the previous month’s sales rate of the item. For the user entity, I added new fields on top of the user’s login information to store a photo of the user, as well as the user’s job title and department. With the development of secure login authentication, the application could ensure that only users with the right credentials are able to access certain parts of the application, such as modifying low-stock thresholds. 
 
 ## **Code Review**
+### _Please click the link below to be redirected to YouTube_
+[Code Review] (https://youtu.be/c97dNf2x43I)
 
 ## **Original Artifact**
 ### _Inventory Tracker Application (Android)_
