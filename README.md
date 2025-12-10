@@ -19,7 +19,7 @@
 
 ## **Original Artifact**
 ### _Inventory Tracker Application (Android)_
-[Original Application]([Inventory Tracker Haleigh Miller Original.zip](https://github.com/haleighmiller228/haleighmiller228.github.io/blob/ad0ac6ac33fe800be455141c0020cfcf8b94181b/Inventory%20Tracker%20Haleigh%20Miller%20Original.zip))
+[Inventory Tracker Haleigh Miller Original.zip](https://github.com/haleighmiller228/haleighmiller228.github.io/blob/ad0ac6ac33fe800be455141c0020cfcf8b94181b/Inventory%20Tracker%20Haleigh%20Miller%20Original.zip)
 
 ## **Enhanced Artifact**
 ### _Inventory Tracker Application (iOS)_
